@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Employee Application</string>
+    <string name="about_text">
+        <b>Помошник сотрудника</b>\n
+        вашего предприятия:\n
+        получение задания/ маршрута</string>
+    <string name="about_title">О программе</string>
+    <string name="title_activity_birthday">Ваш маршрут</string>
+    <string name="BtnTaskTitle">Получить задание</string>
+    <string name="title_activity_task">Маршрут движения</string>
+    <string name="BtnTitleExit1">в.1</string>
+    <string name="BtnTitleExit2">в.2</string>
+    <string name="BtnMh1">Цех 1</string>
+    <string name="BtnTitleExit3">в.3</string>
+    <string name="BtnMh2">Цех 2</string>
+    <string name="BtnTitleExit4">в.4</string>
+    <string name="BtnTitleExit5">в.5</string>
+    <string name="BtnMh3">Цех 7</string>
+    <string name="BtnTitleExit6">в.6</string>
+</resources>
